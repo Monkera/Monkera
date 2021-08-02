@@ -1,7 +1,7 @@
 ### Hello World 👋🌍
 ![](https://komarev.com/ghpvc/?username=Monkera&label=profile+visitors+🍰)
 
-Connect with for example via Discrod =>
+Connect me for example via Discrod =>
 ### lisa.#0118
 
 🌱 My favourite languages are JavaScript and Java.  
